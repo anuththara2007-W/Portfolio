@@ -1,1 +1,1 @@
-# React Portfolio - Anuththara Wickramasekara
+# Full Stack React Portfolio - Anuththara Wickramasekara
